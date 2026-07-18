@@ -114,10 +114,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charan-N-Naik&theme=radical&hide_border=true&background=0B0E14&ring=FFB020&fire=FFB020&currStreakLabel=FFB020" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan-N-Naik&theme=react-dark&hide_border=true&bg_color=0B0E14&color=FFB020&line=FFB020&point=E7E9EC" width="95%"/>
-</p>
-
 <br/>
 
 <div align="center">
