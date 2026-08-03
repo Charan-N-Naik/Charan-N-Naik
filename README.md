@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/charan-n-naik-a7b1012aa" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/charannnaik/" target="_blank">
+<a href= target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="mailto:charannnaik24@gmail.com" target="_blank">
