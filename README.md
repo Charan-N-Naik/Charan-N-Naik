@@ -41,11 +41,11 @@
 </p>
 
 <p align="center">
-  <img height="28" style="vertical-align:middle; margin:2px;" src="https://img.shields.io/badge/Socket.IO-8C2F0B?style=flat-square&logo=socketdotio&logoColor=FFF3E0" />
-  <img height="28" style="vertical-align:middle; margin:2px;" src="https://img.shields.io/badge/WebRTC-5C2E0E?style=flat-square&logo=webrtc&logoColor=FFF3E0" />
-  <img height="28" style="vertical-align:middle; margin:2px;" src="https://img.shields.io/badge/Fastify-1A0E0A?style=flat-square&logo=fastify&logoColor=FFC93C" />
-  <img height="28" style="vertical-align:middle; margin:2px;" src="https://img.shields.io/badge/OpenAI%20API-C4611A?style=flat-square&logo=openai&logoColor=FFF3E0" />
-  <img height="28" style="vertical-align:middle; margin:2px;" src="https://img.shields.io/badge/GitHub%20Actions-E8951F?style=flat-square&logo=githubactions&logoColor=1A0E0A" />
+  <img height="32" style="vertical-align:middle; margin:3px;" src="https://img.shields.io/badge/Socket.IO-13151a?style=for-the-badge&logo=socketdotio&logoColor=FFC93C" />
+  <img height="32" style="vertical-align:middle; margin:3px;" src="https://img.shields.io/badge/WebRTC-13151a?style=for-the-badge&logo=webrtc&logoColor=FFC93C" />
+  <img height="32" style="vertical-align:middle; margin:3px;" src="https://img.shields.io/badge/Fastify-13151a?style=for-the-badge&logo=fastify&logoColor=FFC93C" />
+  <img height="32" style="vertical-align:middle; margin:3px;" src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img height="32" style="vertical-align:middle; margin:3px;" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 <br/>
